@@ -8,7 +8,7 @@ in the \bin file folder under galkin, run: python2 galkin_data.py inputpars.txt
 
 install galpy from https://github.com/jobovy/galpy
 
-use the plotRotcurve.py file in this folder to replace the same file in galpy/potential folder
+use the plotRotcurve.py file in this folder to replace the same file in the galpy/potential folder
 (I slightly changed this file, so we can save the calculated result to a file)
 
 To calculate the contribution of each component in the MWpotential2014, run: python3 MW2014RC.py
